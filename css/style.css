@@ -1,0 +1,126 @@
+body{
+    background-image: url("../img/viajes.jpg");
+    background-size: cover;    
+}
+
+
+h1{
+    color: white;
+    text-align: center;
+    font-size:  100px; ;
+    font-weight: 100 ;
+    font-family: 'Lobster', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Ms Madi', cursive;
+    font-family: 'My Soul', cursive;
+    font-family: 'Pacifico', cursive;
+}
+
+h2{
+    color: white;
+    text-align: center;
+    font-size:  40px; ;
+    font-weight: 40 ;font-family: 'Lobster', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Ms Madi', cursive;
+    font-family: 'My Soul', cursive;
+    font-family: 'Pacifico', cursive;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li a{
+    text-decoration: none;
+}
+
+nav ul li{
+    text-align: center;
+}
+
+main {
+    text-align: center;
+}
+
+a{
+    font-size:  30px; ;
+    font-weight: 30 ; 
+    color: white;
+}
+
+. title{
+    color: red;
+    text-decoration: underline;
+    font-family: 'Lobster', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Ms Madi', cursive;
+    font-family: 'My Soul', cursive;
+    font-family: 'Pacifico', cursive;
+}
+
+
+.parrafo{
+    color: black;
+    font-size: 30px;
+}
+
+.segundoparrafo{
+    color: white;
+    font-size: 30px;
+}
+
+.lorem{
+    color: white;
+    font-size: 20px;
+    font-family: 'Lobster', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Ms Madi', cursive;
+    font-family: 'My Soul', cursive;
+    font-family: 'Pacifico', cursive;
+
+}
+
+.lorem2{
+    color: white;
+    font-size: 20px;
+    font-family: 'Lobster', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Ms Madi', cursive;
+    font-family: 'My Soul', cursive;
+    font-family: 'Pacifico', cursive;
+
+}
+
+.cuerpo{
+    background-image: url(../img/fondedevaca.jpg);
+
+}
+
+.imagen{
+    width: 700px;
+    height: 700px;
+    
+    
+    
+}
+
+.imagen2{
+    width: 700px;
+    height: 700px;
+}
+
+.blog{
+    color: white;
+    font-size: 40px;
+    text-decoration: underline;
+
+}
+
+.blog2{
+    color: white;
+    font-size: 40px;
+    text-decoration: underline;
+}
+
