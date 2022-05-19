@@ -1,11 +1,11 @@
 body{
-    background-image: url("../img/viajes.jpg");
+    background-image: url("../img/imagendeamigos.jpg");
     background-size: cover;    
 }
 
 
 h1{
-    color: white;
+    color: rgb(238, 16, 16);
     text-align: center;
     font-size:  100px; ;
     font-weight: 100 ;
@@ -17,7 +17,7 @@ h1{
 }
 
 h2{
-    color: white;
+    color: rgb(42, 172, 139);
     text-align: center;
     font-size:  40px; ;
     font-weight: 40 ;font-family: 'Lobster', cursive;
